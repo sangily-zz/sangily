@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+■ Android Developer
+□ Meoru
+<small>sang-il Yoon</small>
 
 <!--
 **sangilyoon-dev/sangilyoon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
