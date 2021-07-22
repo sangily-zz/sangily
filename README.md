@@ -1,18 +1,18 @@
 # 💡 Meoru
 
 
- <a href="https://meoru-tech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-AA6555?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="sangilyoon.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-534533?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/sangilyoon-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangilyoon-dev&count_bg=%23EFBEC1&title_bg=%234F4D48&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+ <a href="https://meoru-tech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-AA6555?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:sangilyoon.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-534533?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/sangilyoon-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangilyoon-dev&count_bg=%23EFBEC1&title_bg=%234F4D48&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
    
   <img align='right' src = "https://github-readme-stats.vercel.app/api?username=sangilyoon-dev&show_icons=true&theme=flag-india">  
   
  
 
-### **_"Make People to Find Their Wants"_**  
+ - ### **_"Make People to Find Their Wants"_**  
 
-### **_"Make Their Wants to Find People"_**  
+ - ### **_"Make Their Wants to Find People"_**  
  
  
- 👀 <a href="https://meoru-tech.tistory.com/" target="_blank">VISIT MY BLOG!</a>  
+  👀 <a href="https://meoru-tech.tistory.com/" target="_blank">VISIT MY BLOG!</a>  
  
  .  
  .  
@@ -20,6 +20,11 @@
  
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkddlfdl1111">  
 
+  
+ ### 🚗**Experienced**  
+ - 🎓 Inha University , Electrical Engineering (2015.03 ~ 2021.02)
+ - 🌍 42Seoul 4th, Cadet (2021.03 ~ 2021.07)
+ - ✨ SSAFY(Samsung SW Aducation For Youth) 6th, Student of Mobile Track & Reporter - SSAFYcial (2021.07 ~)
   
  ### 🔨**Stack**⛏  
  ###### Techs that I've used at least once  
@@ -31,9 +36,7 @@
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
  ★ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>  
   
-  .  
-  .  
-  .  
+
    
    
 
