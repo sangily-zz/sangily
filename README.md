@@ -23,7 +23,7 @@
   
  ### 🔨**Stack**⛏  
  ###### Techs that I've used at least once  
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>  
  <img src="https://img.shields.io/badge/Linux&Unix-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/ShellScript-123456?style=flat-square&logo=PowerShell&logoColor=white"/>  
  ★ <img src="https://img.shields.io/badge/Android Studio-42A666?style=flat-square&logo=Android&logoColor=white"/>  
   
