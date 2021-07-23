@@ -1,7 +1,7 @@
 # 💡 Meoru
 
 
- <a href="https://meoru-tech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-AA6555?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:sangilyoon.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-534533?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/sangilyoon-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangilyoon-dev&count_bg=%23EFBEC1&title_bg=%234F4D48&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+ <a href="https://meoru-tech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-AA6555?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:sangilyoon.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-534533?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/sangilyoon-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangilyoon-dev&count_bg=%23EFBEC1&title_bg=%234F4D48&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)  
    
   <img align='right' src = "https://github-readme-stats.vercel.app/api?username=sangilyoon-dev&show_icons=true&theme=flag-india">  
   
