@@ -7,7 +7,7 @@
   
  
 
- - ### **_"Make People to Find Their Wants"_**  
+ - ### **_"Make People Find Their Wants"_**  
 
  - ### **_"Make Their Wants to Find People"_**  
  
