@@ -32,25 +32,25 @@
  ###### Techs that I've used at least once
  
 (FE)  
-  <img src="https://img.shields.io/badge/AJAX-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/BootStrap-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/axios-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Router-SPA-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/VueCli-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/VueJS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
    
 (BE)  
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node. JS&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node. JS&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   
 (DB)  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=Java&logoColor=white"/>   
   
 (LINUX)  
-  <img src="https://img.shields.io/badge/Linux&Unix-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/ShellScript-123456?style=flat-square&logo=PowerShell&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-819733?style=flat-square&logo=PowerShell&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/Linux&Unix-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/ShellScript-123456?style=flat-square&logo=PowerShell&logoColor=white"/>  
   
 (IDE)  
-  ★ <img src="https://img.shields.io/badge/Android Studio-42A666?style=flat-square&logo=Android&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDE&logoColor=white"/> <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=vsCode&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/Android Studio-42A666?style=flat-square&logo=Android&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDE&logoColor=white"/> <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=vsCode&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-819733?style=flat-square&logo=PowerShell&logoColor=white"/>     
   
 (LANGUAGE)  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
- ★ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>  
 
   
 
