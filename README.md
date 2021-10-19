@@ -24,7 +24,8 @@
  ### 🚗**Experienced**  
  - 🎓 Inha University , Electrical Engineering (2015.03 ~ 2021.02)
  - 🌍 42Seoul 4th, Cadet (2021.03 ~ 2021.07)
- - ✨ SSAFY(Samsung SW Aducation For Youth) 6th, Student of Mobile Track & Reporter - SSAFYcial (2021.07 ~)
+ - ✨ SSAFY(Samsung SW Aducation For Youth) 6th, Student of Mobile Track & Reporter - SSAFYcial (2021.07 ~ 2021.10)
+ - 🥕 Karrot Market (Daangn) Platform Server Developer (Intern.) (2021.11 ~ )
   
  ### 🔨**Stack**⛏  
   <a href="https://meoru-tech.tistory.com"><img align='right' src = "https://user-images.githubusercontent.com/76988389/128238143-41a547fe-f624-44e0-93ad-aea03702d2b1.png" width=450></a> 
